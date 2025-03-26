@@ -1,0 +1,14 @@
+header{
+    width: 100%;
+    height: 15vh;
+    line-height: 15vh;
+    background-color: #284eca;
+}
+header h1{
+    color:#000000;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+
+}
